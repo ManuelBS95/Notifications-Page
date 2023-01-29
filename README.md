@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/ManuelBS95/Notifications-Page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://manuelbs95.github.io/Notifications-Page/)
 
 ### Built with
 

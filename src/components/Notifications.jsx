@@ -12,7 +12,7 @@ function Notifications() {
 	}
 
 	return (
-		<div className="pt-5 px-2 max-w-[375px]">
+		<div className="pt-5 px-2 max-w-[375px] md:max-w-[600px] bg-[#f7fafd]">
 			<div className="notification-head pb-4 flex flex-row items-center justify-between">
 				<div>
 					<label className="text-xl font-bold">Notifications</label>
